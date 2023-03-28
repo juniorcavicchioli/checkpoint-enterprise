@@ -26,7 +26,7 @@ public class Purchase {
     @Column(name="payment_method")
     private String paymentMethod;
     @NotNull
-    private LocalDate date;
+    private LocalDate date; // !date é palavra chave no Oracle!
     @NotNull
     private LocalTime time;
 }

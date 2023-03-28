@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.*;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @NoArgsConstructor
@@ -22,5 +23,5 @@ public class Genre {
     private String name;
 
     @OneToMany(mappedBy = "genreId", cascade = CascadeType.ALL)
-    private List<GenreTrack> genreTracks;
+    private List<GenreTrack> genreTracks =  new ArrayList<>();
 }

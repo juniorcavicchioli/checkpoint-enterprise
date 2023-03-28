@@ -11,8 +11,8 @@
 	<groupId>br.com.fiap</groupId>
 	<artifactId>checkpoint</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TechBridge</name>
-	<description>API do app TechBridge</description>
+	<name>Checkpoint</name>
+	<description>Checkpoint 01 de Enterprise Application Development</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
