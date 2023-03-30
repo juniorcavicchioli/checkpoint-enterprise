@@ -10,5 +10,5 @@ Fazer a implementação das classes de JPA do seguinte modelo:
 
 Feito por [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories) e [@fernandogong](https://github.com/fernandogong). Entre em contato!
 
-LinkedIn: [Adilson Roberto Cavicchioli Junior](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) e [Fernando cheng Gong](https://www.linkedin.com/in/fernando-cheng-gong/) <br>
+LinkedIn: [Adilson Roberto Cavicchioli Junior](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) e [Fernando Cheng Gong](https://www.linkedin.com/in/fernando-cheng-gong/) <br>
 Email: [cavicchioli.adilson@gmail.com](mailto:cavicchioli.adilson@gmail.com)
