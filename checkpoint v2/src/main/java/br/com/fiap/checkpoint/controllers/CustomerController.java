@@ -62,8 +62,8 @@ public class CustomerController {
         return customers;
     }
 
-    // Usando o nome
-    @GetMapping("/age")
+    // Usando a idade
+    @GetMapping("/age-maiority")
     public List<Customer> listCustomersByAgeMaiority() {
         List<Customer> customers = customerRepository.findAllByAgeMaiority();
         if(customers.isEmpty()) {
