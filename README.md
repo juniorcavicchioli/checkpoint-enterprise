@@ -1,4 +1,4 @@
-# Checkpoint 01 - Enterprise Application Development
+# Checkpoint(s) - Enterprise Application Development
 Trabalho para disciplina da faculdade.
 
 ## Enunciado
