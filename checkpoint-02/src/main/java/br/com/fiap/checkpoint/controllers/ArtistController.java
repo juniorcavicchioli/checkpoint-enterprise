@@ -22,7 +22,8 @@ public class ArtistController {
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Artist not found"));
     }
 
-    @PostMapping ResponseEntity<Artist> addArtist(@RequestBody Artist artist) {
+    @PostMapping
+    public ResponseEntity<Artist> addArtist(@RequestBody Artist artist) {
         artistRepository.save(artist);
         return ResponseEntity.status(HttpStatus.CREATED).body(artist);
     }

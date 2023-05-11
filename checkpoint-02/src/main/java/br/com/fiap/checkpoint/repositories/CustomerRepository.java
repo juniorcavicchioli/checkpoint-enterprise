@@ -12,6 +12,6 @@ public interface CustomerRepository extends JpaRepository<Customer, String> {
     @Query(value = "SELECT * FROM customer WHERE name like %?1%", nativeQuery = true)
     public List<Customer> findAllByName(String name);
 
-    @Query(value = "SELECT * FROM customer WHERE age > 17")
+    @Query(value = "SELECT * FROM customer WHERE age > 17", nativeQuery = true)
     public List<Customer> findAllByAgeMaiority();
 }
