@@ -3,12 +3,14 @@ Trabalho para disciplina Enterprise Application Development ministrada pelo prof
 
 ## Enunciado do checkpoint 01
 Nota recebida: 10/10
+
 Fazer a implementação das classes de JPA do seguinte modelo:
 <img src="https://user-images.githubusercontent.com/101985616/228822876-f6f93a11-0285-4f90-9fe2-5c993cd02f3a.png"
      width="700em"/>
 
 ## Enunciado do checkpoint 02
 Nota recebida: 10/10
+
 Seguindo o modelo de entidade relacionamento usado no checkpoint 1, implementem a classe de repositório com um CRUD completo de pelo menos 2 classes que não sejam associativas (Artist, Track, Album, Genre, Customer).
 
 ## Autores
