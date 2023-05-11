@@ -1,5 +1,5 @@
 # Checkpoint(s) - Enterprise Application Development
-Trabalho para disciplina da faculdade.
+Trabalho para disciplina Enterprise Application Development ministrada pelo professor Leonardo Gasparini Romão.
 
 ## Enunciado do checkpoint 01
 Nota recebida: 10/10
